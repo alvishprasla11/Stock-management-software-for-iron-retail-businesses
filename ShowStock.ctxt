@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ShowStock
+comment1.params=
+comment1.target=void\ createShowStockFrame()
+comment2.params=showStockFrame
+comment2.target=javax.swing.JPanel\ createMainPanel(javax.swing.JFrame)
+comment3.params=showStockFrame\ panel\ materialComboBox\ shapeComboBox\ widthComboBox\ thicknessComboBox\ diameterComboBox\ checkAvailabilityButton
+comment3.target=void\ addComponents(javax.swing.JFrame,\ javax.swing.JPanel,\ javax.swing.JComboBox,\ javax.swing.JComboBox,\ javax.swing.JComboBox,\ javax.swing.JComboBox,\ javax.swing.JComboBox,\ javax.swing.JButton)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=showStockFrame\ materialComboBox\ shapeComboBox\ widthComboBox\ thicknessComboBox\ diameterComboBox
+comment5.target=void\ checkAvailability(javax.swing.JFrame,\ javax.swing.JComboBox,\ javax.swing.JComboBox,\ javax.swing.JComboBox,\ javax.swing.JComboBox,\ javax.swing.JComboBox)
+comment6.params=name
+comment6.target=java.lang.String\ sanitizeName(java.lang.String)
+numComments=7

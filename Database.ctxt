@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Database
+comment1.params=
+comment1.target=java.sql.Connection\ connect()
+comment2.params=
+comment2.target=void\ createTables()
+comment3.params=name
+comment3.target=java.lang.String\ sanitizeName(java.lang.String)
+numComments=4

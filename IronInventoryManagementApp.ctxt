@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=IronInventoryManagementApp
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ createAndShowGUI()
+comment3.params=
+comment3.target=javax.swing.JPanel\ createMainPanel()
+comment4.params=text\ actionListener
+comment4.target=javax.swing.JButton\ createButton(java.lang.String,\ java.awt.event.ActionListener)
+numComments=5
